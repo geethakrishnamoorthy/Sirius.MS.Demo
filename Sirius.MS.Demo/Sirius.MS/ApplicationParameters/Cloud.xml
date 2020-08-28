@@ -2,6 +2,6 @@
 <Application xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="fabric:/Sirius.MS" xmlns="http://schemas.microsoft.com/2011/01/fabric">
   <Parameters>
     <Parameter Name="Sirius.MS.Service_InstanceCount" Value="-1" />
-    <Parameter Name="Sirius.MS.Service_DBConnectionString" Value="Server=DI5-7040-16-032;Initial Catalog=VBooks;MultipleActiveResultSets=true;User ID=sa;Password=Changep0nd@123" />
+    <Parameter Name="Sirius.MS.Service_DBConnectionString" Value="Server=;Initial Catalog=;MultipleActiveResultSets=true;User ID=;Password=" />
   </Parameters>
 </Application>
