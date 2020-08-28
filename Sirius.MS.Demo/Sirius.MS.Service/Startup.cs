@@ -54,7 +54,7 @@ namespace Sirius.MS.Service
                 c.SwaggerDoc("V2", new OpenApiInfo
                 {
                     Title = "Sirius.MS.Service",
-                    Description = "VBooks Core API3 - with swagger",
+                    Description = "Sirius Core API3 - with swagger",
                     Version = "1.0.5"
                 });
             });
