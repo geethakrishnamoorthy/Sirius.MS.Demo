@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Sirius.MS.Demo/.vs/Sirius.MS.Demo/v16
+/Sirius.MS.Demo/packages/Microsoft.VisualStudio.Azure.Fabric.MSBuild.1.6.10
+/Sirius.MS.Demo/Sirius.MS/obj/x64/Debug
+/Sirius.MS.Demo/Sirius.MS.BAL/bin/Debug
+/Sirius.MS.Demo/Sirius.MS.BAL/obj
+/Sirius.MS.Demo/Sirius.MS.DAL/bin/Debug
+/Sirius.MS.Demo/Sirius.MS.DAL/obj
+/Sirius.MS.Demo/Sirius.MS.Service/bin/Debug
+/Sirius.MS.Demo/Sirius.MS.Service/obj
+/Sirius.MS.Demo/Sirius.MS.UnitTests/bin/Debug
+/Sirius.MS.Demo/Sirius.MS.UnitTests/obj
