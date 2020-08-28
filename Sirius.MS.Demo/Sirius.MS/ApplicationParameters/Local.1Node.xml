@@ -3,6 +3,6 @@
   <Parameters>
     <Parameter Name="Sirius.MS.Service_ASPNETCORE_ENVIRONMENT" Value="Development" />
     <Parameter Name="Sirius.MS.Service_InstanceCount" Value="1" />
-    <Parameter Name="Sirius.MS.Service_DBConnectionString" Value="Server=DI5-7040-16-032;Initial Catalog=VBooks;MultipleActiveResultSets=true;User ID=sa;Password=Changep0nd@123" />
+    <Parameter Name="Sirius.MS.Service_DBConnectionString" Value="Server=;Initial Catalog=;MultipleActiveResultSets=true;User ID=;Password=" />
   </Parameters>
 </Application>
